@@ -260,7 +260,7 @@ I need to submit my ERD as:
 Submit the following items via my assignment submission portal:
 
 - ✅ **ERD Link (Public):** [FTS.drawio](https://drive.google.com/file/d/1bRpYF-isnpnqMOS-2y9VGrYvl8JQGmJR/view?usp=sharing).
-- ✅ **GitHub Repository Link (Public):** [Source Code](https://github.com/ars2k03/football-ticket-booking-system).
+- ✅ **GitHub Repository Link (Public):** [Source Code](https://github.com/ars2k03/football-ticket-booking-system_B7A3).
 - ✅ **Interview Video Link (Public):** Shared via Google Drive, YouTube (Unlisted), or a similar platform.
 
 💡 **Pro Tips:**
