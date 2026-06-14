@@ -259,8 +259,8 @@ I need to submit my ERD as:
 
 Submit the following items via my assignment submission portal:
 
-- ✅ **ERD Link (Public):** Ensure link access configuration is set to public viewer mode.
-- ✅ **GitHub Repository Link (Public):** Link to my source code.
+- ✅ **ERD Link (Public):** [FTS.drawio](https://drive.google.com/file/d/1bRpYF-isnpnqMOS-2y9VGrYvl8JQGmJR/view?usp=sharing).
+- ✅ **GitHub Repository Link (Public):** [Source Code](https://github.com/ars2k03/football-ticket-booking-system).
 - ✅ **Interview Video Link (Public):** Shared via Google Drive, YouTube (Unlisted), or a similar platform.
 
 💡 **Pro Tips:**
@@ -276,5 +276,6 @@ Submit the following items via my assignment submission portal:
 | **50 Marks** | June 16, 2026 at 11:59 PM |
 | **30 Marks** | June 17 to July 7, 2026 at 11:59 PM |
 
+---
 
 🚀 Build something clean, secure, and well-documented.
